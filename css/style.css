@@ -1,0 +1,39 @@
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+.me {
+    height: 300px;
+    width: 225px;
+    align-content: middle;
+    padding-bottom: 10px;
+}
+
+.card, p {
+    text-align: center;
+    font-size: 12px;
+}
+
+.last_section {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 200px;
+    padding-top: 75px;
+    margin-top: 25px;
+}
+
+#about, p {
+    font-size: 14px;
+}
+
+.card {
+    padding: 10px;
+}
+
+.portfolio .card {
+    text-align: center;
+
+}
